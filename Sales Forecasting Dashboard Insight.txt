@@ -1,0 +1,22 @@
+Sales Forecasting Dashboard Insights
+
+1. Sales Trend:
+Sales show a steady increase over the years, indicating business growth.
+
+2. Category Analysis:
+Technology category has the highest sales contribution, followed by Furniture and Office Supplies.
+
+3. Regional Performance:
+Some regions contribute significantly more to total sales, highlighting regional demand differences.
+
+4. Order Distribution:
+The number of orders is consistent across categories with slight variation.
+
+5. Forecast Insight:
+Using time-series forecasting, the model predicts continued growth in the next year.
+
+6. Business Insight:
+The company should focus more on high-performing categories and regions to maximize revenue.
+
+7. Conclusion:
+Predictive analytics helps in understanding future trends and supports better business decisions.
